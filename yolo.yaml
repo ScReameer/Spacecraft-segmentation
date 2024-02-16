@@ -1,0 +1,9 @@
+path: ./ # dataset root dir
+train: train/images # train images (relative to 'path')
+val: val/images # val images (relative to 'path') 
+# test: images/test # test images
+
+names:
+  0: solar panel
+  1: body
+  2: antenna
